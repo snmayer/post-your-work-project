@@ -17,6 +17,7 @@ The user is prompted for
 - a city 
 - a month
 - a day of week
+
 for analizing bike share usage statistics.
 Then different statistics diagrams are plotted.
 
