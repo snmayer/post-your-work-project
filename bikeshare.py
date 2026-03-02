@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+# Note: Initially only data from New York City is available!
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
