@@ -9,7 +9,8 @@ The bikeshare project is a python script, that analyzes bike share usage data pr
 The python code requires the following libraries:
 - time
 - pandas
-- numpy
+- numpy.
+Make sure these modules are available in your Python environment.
 
 The user is prompted for
 - a city 
