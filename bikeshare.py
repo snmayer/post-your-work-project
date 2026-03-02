@@ -71,6 +71,7 @@ def station_stats(df):
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
+    # the following lines are empty, yet. Display code to be developed.
     # display most commonly used start station
 
 
